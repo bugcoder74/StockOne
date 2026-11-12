@@ -53,6 +53,7 @@ INSTALLED_APPS = [
     'apps.tenants',
     'apps.catalog',
     'apps.inventory',
+    'apps.purchases',
 ]
 
 AUTH_USER_MODEL = "accounts.User"
